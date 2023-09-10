@@ -1,0 +1,42 @@
+header {
+    background-color: black;
+    color: whitesmoke;
+    height: 123px;
+}
+nav {
+    background-color: black;
+    color: whitesmoke;
+}
+#nav-items {
+    max-width: 1000px;
+    background-color: black;
+}
+a {
+    text-decoration: none;
+    color: whitesmoke
+}
+#offers {
+    height: 159px;
+    background-color: #3a3a3a;
+    color: whitesmoke;
+}
+#bubbles{
+    max-width: 1000px;
+}
+#booking-header {
+    color: whitesmoke;
+    margin: 0px;
+}
+#steps-container {
+    background-color: #333333;
+}
+#steps {
+    max-width: 1000px;
+}
+#package-info {
+    max-width: 1000px;
+}
+footer{
+    height: 200px;
+    background-color: #3a3a3a;
+}
